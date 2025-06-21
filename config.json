@@ -1,0 +1,8 @@
+{
+  "tickers": ["AAPL", "MSFT", "TSLA"],
+  "interval": "1d",
+  "range": "1mo",
+  "refresh_minutes": 60,
+  "api_key": "changeme"
+}
+
